@@ -22,6 +22,7 @@ public class POO_tp4_ej3 {
         }
         System.out.println("------------------------------------");
         System.out.println("Total a pagar: $"+total);
+        System.out.println("Correccion hecha con GIT");
         System.out.println("------------------------------------");
     }
 
